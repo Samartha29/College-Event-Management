@@ -65,6 +65,6 @@ This magnificent project is protected by the Royal Decree of [License Name]. Ple
 
 ## Send Us a Message by Owl 🦉📬
 
-For any questions or feedback, we await your missives at [your-email@example.com]. Let the enchanted owls carry your words to our realm. 💌✉️
+For any questions or feedback, we await your missives at [samarth2911@gmail.com]. Let the enchanted owls carry your words to our realm. 💌✉️
 
 Happy Coding, and may the magic of coding be with you! 🪄💻✨
