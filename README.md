@@ -54,6 +54,12 @@ Behold, the wondrous tools that conjure our magic:
 
    - Fire up your XAMPP control panel and start the Apache server.
    - Open your web browser and visit `http://localhost/College-Event-Management/` to witness the magic come to life!
+## Hosted Website 🔗
+
+You can experience the magic of our College Event Management System by visiting our hosted website: 🏰
+
+[![College Event Management](https://your-image-link.com)](http://college-management-system.great-site.net/?i=2) 🌐
+
 
 ## Contribute to Our Quest 🤝
 
