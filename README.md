@@ -57,7 +57,7 @@ Behold, the wondrous tools that conjure our magic:
 
 ## Contribute to Our Quest 🤝
 
-Do you wish to join our fellowship on this epic quest? Check out our [Contribution Guidelines](CONTRIBUTING.md) and become part of the legend! ⚔️🛡️
+Do you wish to join our fellowship on this epic quest? Check out our [Contribution Guidelines](CONTRIBUTIONS.md) and become part of the legend! ⚔️🛡️
 
 ## The Royal Decree 📜
 
